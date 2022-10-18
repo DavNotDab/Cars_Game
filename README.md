@@ -1,7 +1,7 @@
 # Cars-Game
-A small 2D cars game.
+A funny little 2D cars game.
 
-This is a small game I made a few time ago, when I was just 5 months into Python.
+This is a little game I made a while ago, when I was just 5 months into Python.
 It's not perfect but you can have a little fun with it, specially if you have a friend to play with.
 
 You can choose between three different gamemodes.
