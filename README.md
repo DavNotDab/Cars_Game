@@ -11,10 +11,10 @@ The third one is Versus mode. In this mode laps doesn't matter. The first to dep
 ***Controls***
 
 General:
-Press "E" to start the game in the main menu, "ESC" at any time will terfminite the program.
+Press "E" to start the game in the main menu, "ESC" at any time will terminate the program.
 Press "1", "2", or "3" to select the gamemode in the selct gamemode screen.
 After that enter the parameters of the game (players 1-2, lives 1-99, laps 1-99).
-For choosing the car color press "A" and "D" if player one. If player two press left and right arrow keys.
+For choosing the car's color press "A" and "D" if player one. If player two press left and right arrow keys.
 To start the game press a number between 1 and 4 to select the map you want to play on.
 
 In Game:
